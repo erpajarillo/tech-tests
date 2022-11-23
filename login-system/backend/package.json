@@ -1,7 +1,7 @@
 {
-  "name": "junogo-backend",
+  "name": "login-system-backend",
   "version": "1.0.0",
-  "description": "Juno Go - Backend",
+  "description": "Login System - Backend",
   "main": "dist/index.js",
   "scripts": {
     "lint": "eslint .",
