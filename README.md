@@ -1,11 +1,14 @@
 # Tech Tests
-Different Tech Tests done by myself in different interview processes
+Different Tech Tests done by myself in different interview processes.
 
-## Login System
+## 1. Login System
 A login system with TypeScript & React creating / using:
  * Backend (Parse Server)
  * Frontend (NextJS 13 Beta)
  * GraphQL to commicate Backend & Frontend
 
-## Word Finder
-Following TDD, create a function to find the longest word in a list from a random string
+## 2. Word Finder
+Following TDD, create a function to find the longest word in a list from a random string.
+
+## 3. TS Template
+Simple TypeScript Template.

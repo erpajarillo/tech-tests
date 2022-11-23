@@ -1,0 +1,25 @@
+{
+  "name": "ts-template",
+  "version": "1.0.0",
+  "description": "TS - Template",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "build": "tsc",
+    "test": "vitest",
+    "coverage": "vitest run --coverage",
+    "start:dev": "node src/index.ts",
+    "start:prd": "tsc && node dist/index.js"
+  },
+  "keywords": [],
+  "author": "Raul Gonzalez",
+  "license": "ISC",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "5.42.1",
+    "@typescript-eslint/parser": "5.42.1",
+    "eslint": "8.27.0",
+    "typescript": "4.8.4",
+    "vitest": "0.25.1"
+  }
+}
