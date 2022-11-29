@@ -14,4 +14,4 @@ Following TDD, create a function to find the longest word in a list from a rando
 Simple TypeScript Template.
 
 ## 4. AdventJS
-Different tests done using TDD (Christmas themed in Spanish)
+Different tests done with JavaScript using TDD (Christmas themed in Spanish)
