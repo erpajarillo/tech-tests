@@ -15,3 +15,6 @@ Simple TypeScript Template.
 
 ## 4. AdventJS
 Different tests done with JavaScript using TDD (Christmas themed in Spanish)
+
+## 5. Strings and Search
+Two tests playing with strings and recursive search
