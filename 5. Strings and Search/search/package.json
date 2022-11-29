@@ -1,0 +1,20 @@
+{
+  "name": "search",
+  "version": "1.0.0",
+  "description": "Have the function `LongestMatrixPath(strArr)` take the array of strings stored in strArr, which will be an NxM matrix of positive single-digit integers, and find the longest increasing path composed of distinct integers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest",
+    "coverage": "vitest run --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "standard": "17.0.0",
+    "vitest": "0.25.3"
+  },
+  "eslintConfig": {
+    "extends": "./node_modules/standard/eslintrc.json"
+  }
+}
