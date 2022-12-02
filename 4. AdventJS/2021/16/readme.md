@@ -1,3 +1,10 @@
+# Descifrando los números...
+### Hemos encontrado unas cartas misteriores que contienen un montón de símbolos. Por suerte tenemos el diccionario para decodificarlas. ¡Vamos a ver qué contienen!
+
+[AdventJS - Challenge 16](https://adventjs.dev/challenges/16 "AdventJS - 16") [`Fácil`]
+
+***
+
 Lara Eloft ha encontrado unos restos élficos en una cueva, cerca del Círculo Polar Ártico, a 8 km al norte de Rovaniemi.
 
 Ahora se encuentra descifrando unas misteriosas cartas que contiene información sobre unos números que le puede hacer llegar al próximo objetivo.
@@ -31,3 +38,5 @@ decodeNumbers('!!!') // 300
 decodeNumbers(';!') // 50
 decodeNumbers(';.W') // NaN
 ```
+
+***
