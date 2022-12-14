@@ -1,6 +1,8 @@
+# Automatizando envolver regalos de navidad
+
 [AdventJS - Challenge 01](https://adventjs.dev/es/challenges/2022/1 "AdventJS - 01") [`Fácil`]
 
-# Instrucciones
+## Instrucciones
 
 Este año los elfos han comprado una máquina que envuelve regalos. Pero... ¡no viene programada! Necesitamos crear un algoritmo que le ayude en la tarea.
 

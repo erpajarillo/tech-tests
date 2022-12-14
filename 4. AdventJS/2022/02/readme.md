@@ -1,6 +1,8 @@
+# Nadie quiere hacer horas extra
+
 [AdventJS - Challenge 02](https://adventjs.dev/es/challenges/2022/2 "AdventJS - 02") [`Fácil`]
 
-# Instrucciones
+## Instrucciones
 
 Un millonario ha comprado una red social y no trae buenas noticias. Ha anunciado que **cada vez que una jornada de trabajo se pierde por un día festivo**, habrá que compensarlo con **dos horas extra otro día de ese mismo año**.
 
